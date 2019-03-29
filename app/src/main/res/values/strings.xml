@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Music App</string>
+    <string name="exit_app">exit app</string>
+    <string name="play_and_stop_music">Play and Stop music</string>
+    <string name="sound_volume">Sound volume</string>
+</resources>
